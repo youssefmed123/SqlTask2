@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P01_SalesDatabase": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
